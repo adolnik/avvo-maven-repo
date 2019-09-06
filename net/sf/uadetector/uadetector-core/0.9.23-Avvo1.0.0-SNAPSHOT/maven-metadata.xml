@@ -5,20 +5,20 @@
   <version>0.9.23-Avvo1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190906.072951</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20190906.073411</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20190906072951</lastUpdated>
+    <lastUpdated>20190906073411</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.9.23-Avvo1.0.0-20190906.072951-1</value>
-        <updated>20190906072951</updated>
+        <value>0.9.23-Avvo1.0.0-20190906.073411-2</value>
+        <updated>20190906073411</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.9.23-Avvo1.0.0-20190906.072951-1</value>
-        <updated>20190906072951</updated>
+        <value>0.9.23-Avvo1.0.0-20190906.073411-2</value>
+        <updated>20190906073411</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
